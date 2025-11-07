@@ -13701,3 +13701,10 @@ Entries:
   id: 1517
   time: '2025-11-07T14:08:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2559
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: Cortical borer eggs now properly apply playtime requirements.
+  id: 1518
+  time: '2025-11-07T14:24:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2571
