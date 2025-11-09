@@ -13849,3 +13849,12 @@ Entries:
   id: 1532
   time: '2025-11-09T19:31:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2573
+- author: Avalon-Proto
+  changes:
+    - type: Tweak
+      message: All pulse weapons have been rebalanced and changed
+    - type: Add
+      message: TSF FTLs and Col. can now purchase a pulse rifle for 250 FMC
+  id: 1533
+  time: '2025-11-09T19:47:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2539
