@@ -14092,3 +14092,10 @@ Entries:
   id: 1560
   time: '2025-11-13T00:33:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2616
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Vessel AI cores are no longer whitelist-only.
+  id: 1561
+  time: '2025-11-13T00:34:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2614
