@@ -15316,3 +15316,10 @@ Entries:
   id: 1699
   time: '2025-12-29T00:25:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2880
+- author: pheenty
+  changes:
+    - type: Tweak
+      message: Pet carriers now have no whitelist.
+  id: 1700
+  time: '2025-12-29T13:08:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2896
