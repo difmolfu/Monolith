@@ -15842,3 +15842,14 @@ Entries:
   id: 1757
   time: '2026-01-05T18:24:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2947
+- author: Diggy0
+  changes:
+    - type: Add
+      message: More markings have been added to Hydrakin.
+    - type: Tweak
+      message: >-
+        Basic / Spatio / Vizier / TSF-Colonel / TSF-Experimental now have proper
+        / updated sprites for Hydrakin
+  id: 1758
+  time: '2026-01-05T18:39:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2955
