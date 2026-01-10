@@ -16040,3 +16040,12 @@ Entries:
   id: 1777
   time: '2026-01-10T21:44:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3002
+- author: thoughtlessuser
+  changes:
+    - type: Fix
+      message: >-
+        Deletes the duplicate turret in PDV Helios locker room and runs a
+        FixGridAtmos for any missing air in the fortress.
+  id: 1778
+  time: '2026-01-10T22:52:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3005
