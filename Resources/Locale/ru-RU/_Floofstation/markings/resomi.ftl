@@ -1,4 +1,4 @@
-marking-ResomiTail = Resomi tail
+marking-ResomiTail = хвост Резоми
 marking-ResomiTail-tail = Resomi tail
 marking-ResomiTailFeathers = Tail feathers
 marking-ResomiTailFeathers-tail_feathers = Tail feathers
