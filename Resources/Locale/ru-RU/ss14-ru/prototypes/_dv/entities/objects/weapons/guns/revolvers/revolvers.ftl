@@ -1,5 +1,5 @@
-ent-WeaponRevolverFitz = Fitz Special (.45 magnum)
-    .desc = A compact and concealable self defence snub revolver. Uses .45 magnum ammo.
-ent-WeaponRevolverFaith = Faith (.45 magnum)
-    .desc = Delivers blessings in bullet form. Uses .45 magnum ammo.
+ent-WeaponRevolverFitz = Фитц
+    .desc = Компактный револьвер скрытого ношения для самообороны. Использует патроны калибра .45 магнум.
+ent-WeaponRevolverFaith = Проповедник
+    .desc = Распространяет веру посредством нанесения огнестрельных ранений. Использует патроны калибра .45 магнум.
 

@@ -1,5 +1,5 @@
-ent-WeaponPistolHawk4 = LWC HAWK-4 I.S
-    .desc = A modified, heavy Anaconda for the purpose of assassinating high value targets. This rare prototype is capable of printing armor penetrating bullets. A laser and holographic sight alongside a matte black chassis with a custom-built integrated silencer make for an exceedingly deadly stealth weapon, only fit for a true Commander of the Phaethon Dynasty Imperial Vanguard.
+ent-WeaponPistolHawk4 = LWC Хоук-4
+    .desc = Модифицированная версия пистолета "Анаконда", предназначенная для выполнения диверсионных задач.
 ent-BulletHawk = bullet (7x30mm caseless)
     .desc = { ent-BaseBullet.desc }
 ent-WeaponRevolverDragoon = TPC Dragoon officer's revolver

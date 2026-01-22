@@ -1,10 +1,10 @@
-ent-WeaponRevolverArgenti = Argenti (5.56x45mm)
-    .desc = The civilian grade Argenti Type 20 revolver. Manufactured by Silver Industries. While the design with expanded cylinder is quite ancient, the right gunslinger will know how to utilise it well. Uses 5.56x45mm ammo.
+ent-WeaponRevolverArgenti = Аргенти
+    .desc = Гражданский револьвер Аргенти исп. 20. Изготовлен "Silver Industries". Пусть конструкция с увеличенным барабаном не эргономична, опытный стрелок извлечет из этого пользу. Использует патроны калибра 5.56x45мм.
 ent-WeaponRevolverArgentiNonlethal = { ent-WeaponRevolverArgenti }
-    .suffix = Non-lethal
+    .suffix = Травматический
     .desc = { ent-WeaponRevolverArgenti.desc }
 ent-WeaponRevolverDeckardNonlethal = { ent-WeaponRevolverDeckard }
-    .suffix = Non-lethal
+    .suffix = Травматический
     .desc = { ent-WeaponRevolverDeckard.desc }
 ent-WeaponRevolverDeckardExpeditionGrifty = Customer Service Resolver
     .desc = { ent-WeaponRevolverDeckardExpedition.desc }
