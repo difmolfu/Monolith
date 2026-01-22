@@ -1,7 +1,7 @@
 ent-WeaponSubMachineGunMla73 = SKR-WS MLA-73 (635x40mm caseless)
     .desc = A reliable PDW design, commonly issued to pilots and AFV crewmen. This one has been modified with an integral suppressor. Legends around this weapons say it's a Corporate-Era schematic that's been built by the Phaethon Dynasty.
 ent-WeaponSubMachineGunAK220 = AK-220 (9x19mm)
-    .desc = Массовый пистолет-пулемет, разработан в СССП, но производится и на территориях ТСФ и ПДВ. Использует патроны калибра 9х19мм.
+    .desc = Массовый пистолет-пулемет, разработан в СССП, но производится и на территориях ТСФ и ДФ. Использует патроны калибра 9х19мм.
 ent-WeaponSubMachineGunVector9x19mm = LWC Vector (9x19mm)
     .desc = An excellent fully automatic SMG. Uses 9x19mm ammo.
 ent-WeaponSubMachineGunVector45_ACP = LWC Vector (.45 ACP)
